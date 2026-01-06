@@ -79,7 +79,7 @@ const Hero = () => {
                                 background:"black", color:"white"
                              }}
                             transition={{ type: 'spring', stiffness: 400 }}
-                            variants={childVarients} href="/RohitPrashadPandeya.pdf" target="_blank" rel=" noopener noreferrer" className="  bg-white rounded-full p-4 text-sm  text-black font-bold mb-10">Download Resume</motion.a>
+                            variants={childVarients} href="/Portfolios/RohitPrashadPandeya.pdf" target="_blank" rel=" noopener noreferrer" className="  bg-white rounded-full p-4 text-sm  text-black font-bold mb-10">Download Resume</motion.a>
 
                     </motion.div>
 
